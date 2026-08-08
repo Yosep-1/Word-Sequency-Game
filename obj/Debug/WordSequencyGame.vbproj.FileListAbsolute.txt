@@ -1,0 +1,12 @@
+C:\Users\LEN0V0\AppData\Local\Temporary Projects\WordSequencyGame\bin\Debug\WordSequencyGame.exe.config
+D:\ANTAR MUKA [KULIAH]\Prak.1\WORD QUIZ\WordSequencyGame\WordSequencyGame\bin\Debug\WordSequencyGame.exe.config
+D:\ANTAR MUKA [KULIAH]\Prak.1\WORD QUIZ\WordSequencyGame\WordSequencyGame\bin\Debug\WordSequencyGame.exe
+D:\ANTAR MUKA [KULIAH]\Prak.1\WORD QUIZ\WordSequencyGame\WordSequencyGame\bin\Debug\WordSequencyGame.pdb
+D:\ANTAR MUKA [KULIAH]\Prak.1\WORD QUIZ\WordSequencyGame\WordSequencyGame\bin\Debug\WordSequencyGame.xml
+D:\ANTAR MUKA [KULIAH]\Prak.1\WORD QUIZ\WordSequencyGame\WordSequencyGame\obj\Debug\WordSequencyGame.Form1.resources
+D:\ANTAR MUKA [KULIAH]\Prak.1\WORD QUIZ\WordSequencyGame\WordSequencyGame\obj\Debug\WordSequencyGame.Resources.resources
+D:\ANTAR MUKA [KULIAH]\Prak.1\WORD QUIZ\WordSequencyGame\WordSequencyGame\obj\Debug\WordSequencyGame.vbproj.GenerateResource.Cache
+D:\ANTAR MUKA [KULIAH]\Prak.1\WORD QUIZ\WordSequencyGame\WordSequencyGame\obj\Debug\WordSequencyGame.exe
+D:\ANTAR MUKA [KULIAH]\Prak.1\WORD QUIZ\WordSequencyGame\WordSequencyGame\obj\Debug\WordSequencyGame.xml
+D:\ANTAR MUKA [KULIAH]\Prak.1\WORD QUIZ\WordSequencyGame\WordSequencyGame\obj\Debug\WordSequencyGame.pdb
+D:\ANTAR MUKA [KULIAH]\Prak.1\WORD QUIZ\WordSequencyGame\WordSequencyGame\obj\Debug\WordSequencyGame.FormGame.resources
