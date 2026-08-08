@@ -23,6 +23,6 @@ An interactive memory game designed to test and train visual recall. This applic
 
 | Home Page | Gameplay |
 | --- | --- |
-| <img width="830" height="518" alt="Screenshot 2026-08-08 125213" src="https://github.com/user-attachments/assets/e604c2ba-0c5e-4323-9fdd-a9ddb7fc6bf4" /> | <img width="1107" height="647" alt="Screenshot 2026-08-08 125224" src="https://github.com/user-attachments/assets/54030c43-bbec-4a38-be00-7ef29dcc7cba" /> |
+| <img width="400" alt="Screenshot 2026-08-08 125213" src="https://github.com/user-attachments/assets/e604c2ba-0c5e-4323-9fdd-a9ddb7fc6bf4" /> | <img width="400" alt="Screenshot 2026-08-08 125224" src="https://github.com/user-attachments/assets/54030c43-bbec-4a38-be00-7ef29dcc7cba" /> |
 
 ---
